@@ -8,7 +8,7 @@ Selain analisis di Jupyter Notebook, proyek ini juga menyediakan *dashboard* int
 ## Struktur Direktori
 - `/data`: Direktori yang berisi dataset mentah (format `.csv`) dari Olist.
 - `/dashboard`: Direktori yang memuat kode *dashboard* (`dashboard.py`) dan dataset yang sudah dibersihkan (`main_data.csv`, `rfm_data.csv`, `review_data.csv`).
-- `Proyek_Analisis_Data.ipynb`: Berkas Jupyter Notebook yang berisi proses analisis data lengkap, mulai dari *Data Gathering*, *Assessing*, *Cleaning*, *Exploratory Data Analysis (EDA)*, hingga *Visualisasi dan Explanatory Analysis*.
+- `notebook.ipynb`: Berkas Jupyter Notebook yang berisi proses analisis data lengkap, mulai dari *Data Gathering*, *Assessing*, *Cleaning*, *Exploratory Data Analysis (EDA)*, hingga *Visualisasi dan Explanatory Analysis*.
 - `README.md`: Dokumentasi petunjuk penggunaan proyek.
 - `requirements.txt`: Daftar pustaka (*library*) Python yang dibutuhkan untuk menjalankan proyek.
 
