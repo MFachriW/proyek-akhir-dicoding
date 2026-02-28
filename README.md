@@ -1,4 +1,4 @@
-# Proyek Analisis Data: E-Commerce Public Dataset 🛒
+# Proyek Analisis Data: E-Commerce Public Dataset 
 
 ## Deskripsi Proyek
 Proyek ini merupakan *submission* akhir untuk kelas **Belajar Analisis Data dengan Python** di Dicoding. Proyek ini berfokus pada analisis data E-Commerce publik untuk menggali *insight* bisnis yang mencakup demografi pelanggan, metode pembayaran, analisis tingkat kepuasan, dan segmentasi pelanggan menggunakan metode RFM (*Recency, Frequency, Monetary*).
@@ -12,7 +12,7 @@ Selain analisis di Jupyter Notebook, proyek ini juga menyediakan *dashboard* int
 - `README.md`: Dokumentasi petunjuk penggunaan proyek.
 - `requirements.txt`: Daftar pustaka (*library*) Python yang dibutuhkan untuk menjalankan proyek.
 
-## ⚙️ Cara Menjalankan Proyek (Setup Environment)
+## Cara Menjalankan Proyek (Setup Environment)
 
 ### 1. Instalasi Library
 Pastikan Anda sudah menginstal Python di komputer Anda. Buka Terminal/Command Prompt, arahkan ke folder proyek ini, lalu jalankan perintah berikut untuk menyiapkan environment dan menginstal semua *library* yang dibutuhkan:
